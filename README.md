@@ -3,7 +3,7 @@
 # 介绍蓝胖云梯子，并与其它机场如光年梯与极速云进行比较
 
 <p align="center">
-  <a href="https://74u.lanpangyun.de/#/register?code=uGqX6Dou">
+  <a href="https://www.lanpan.com">
     <img src="https://bj999.cc/jiedianpic/lpy.jpg" alt="蓝胖云梯子" width="420" />
   </a>
 </p>
@@ -20,7 +20,7 @@
 
 **光年梯注册链接：**
 
-> [https://fdjsi8djd.guangnnt.homes](https://fdjsi8djd.guangnnt.homes/#/?code=0yL7tKFi)
+> [官网入口](https://gnt001.gntvipaff.cc/#/?code=0yL7tKFi)
 
 光年梯是一家主打 **全程 IPLC 专线、原生 IP、晚高峰不限速** 的机场服务商。节点覆盖香港、日本、新加坡、美国、台湾、马来西亚等热门地区，支持 ChatGPT、TikTok、Netflix、Disney+ 等主流平台解锁。
 
@@ -156,8 +156,8 @@
 
 | 服务    | 注册地址                                               |
 | ----- | -------------------------------------------------- |
-| 蓝胖云梯子 | https://74u.lanpangyun.de/#/register?code=uGqX6Dou |
-| 光年梯   | https://fdjsi8djd.guangnnt.homes/#/?code=0yL7tKFi  |
+| 蓝胖云梯子 | https://www.lanpanyun.com |
+| 光年梯   | https://sites.google.com/view/zhuanxianjichang/xzzx#h.g8nt3eie55xm |
 | 极速云   | https://905.jsy902.xyz/#/register?code=gC4N4Xm4    |
 
 ---
