@@ -3,7 +3,7 @@
 # 介绍蓝胖云梯子，并与其它机场如光年梯与极速云进行比较
 
 <p align="center">
-  <a href="https://www.lanpan.com">
+  <a href="https://www.lanpanyun.com">
     <img src="https://bj999.cc/jiedianpic/lpy.jpg" alt="蓝胖云梯子" width="420" />
   </a>
 </p>
